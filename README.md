@@ -1,7 +1,7 @@
 # Happy Flappy Penguin - FCC
 Welcome to the Happy Flappy Penguin project! In this project, you'll be building a fun and interactive game featuring a flappy penguin. Along the way, you'll explore CSS transforms and animations to bring your penguin to life.
 
-Project Overview
+# Project Overview
 The goal of this project is to create a simple yet engaging game where the player controls a penguin's flight through various obstacles. The game will utilize HTML, CSS, and JavaScript to handle the game mechanics, animations, and user interactions.
 
 Key Features
