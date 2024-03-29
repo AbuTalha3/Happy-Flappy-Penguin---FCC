@@ -20,7 +20,8 @@ Explore the existing HTML, CSS, and JavaScript files to understand the project s
 Modify and enhance the code to add new features, improve animations, or adjust the gameplay mechanics.
 Test your changes by opening the HTML file in a web browser and playing the game.
 Resources
-FreeCodeCamp (FCC): You can find tutorials and resources on FreeCodeCamp's website to help you with HTML, CSS, and JavaScript concepts.
+# FreeCodeCamp (FCC): 
+- You can find tutorials and resources on FreeCodeCamp's website to help you with HTML, CSS, and JavaScript concepts.
 MDN Web Docs: Refer to Mozilla Developer Network (MDN) for detailed documentation and guides on web development technologies.
 Online Communities: Join forums, discussion boards, or online communities to seek help, share ideas, and collaborate with other developers.
 Have Fun Coding!
