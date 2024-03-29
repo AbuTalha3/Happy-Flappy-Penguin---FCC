@@ -1,4 +1,4 @@
-Happy Flappy Penguin - FCC
+# Happy Flappy Penguin - FCC
 Welcome to the Happy Flappy Penguin project! In this project, you'll be building a fun and interactive game featuring a flappy penguin. Along the way, you'll explore CSS transforms and animations to bring your penguin to life.
 
 Project Overview
