@@ -4,7 +4,7 @@ Welcome to the Happy Flappy Penguin project! In this project, you'll be building
 # Project Overview
 The goal of this project is to create a simple yet engaging game where the player controls a penguin's flight through various obstacles. The game will utilize HTML, CSS, and JavaScript to handle the game mechanics, animations, and user interactions.
 
-Key Features
+# Key Features
 Flappy Penguin Character: Design and animate a penguin character using CSS transforms and animations.
 Obstacle Generation: Implement obstacles that the player must navigate through during the game.
 User Interaction: Allow the player to control the penguin's flight, typically using keyboard inputs or mouse clicks.
